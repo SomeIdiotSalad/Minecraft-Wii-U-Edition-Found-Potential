@@ -1,4 +1,11 @@
-# Minecraft-Wii-U-Edition-Found-Potential
+# Minecraft Wii U Edition: Found Potential
+
+# How to help
+All you need to do to show appreciation, is join the discord!
+
+https://discord.gg/cAmHBGPH7a
+
+It has a lot of helpful information about the mod, active users, and updates. It is actively maintained, and you can see the progress of the mod there. This GitHub page is for releases of the mod.
 
 # Features
 • Revamped Controller Help Hints
